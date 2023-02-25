@@ -1,5 +1,5 @@
 """
-Performaing task to get all user inputs and their parts multiplication
+Performing task to get all user inputs and their parts multiplication
 """
 from math import pow as pow_
 from time import sleep as sl
